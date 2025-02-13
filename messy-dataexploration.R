@@ -73,7 +73,7 @@ p1
 #(adapt code from problem 1 if encessary)
 
 # load in the datasaurus dataset
-datasaurus_dozen = readRDS("WEEK5/files_week5/datasaurus_dozen.rds")
+datasaurus_dozen = readRDS("datasaurus_dozen.rds")
 
 # explore the different datasets in datasaurus_dozen 
 str(datasaurus_dozen)
