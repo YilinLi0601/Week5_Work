@@ -60,11 +60,13 @@ p1
 
 # what do the plots tell us about the different datasets? 
 # describe the relationship between x and y in the different datasets. 
+##Dataset1 has data points quite randomly distributed around the line of best fit, showing a common positive correlation between x and y. Dataset 2 has data points like a bell curve, can be acturally showing a process. Dataset 3 is more uniform with one outlier changing the angle of the line of best fit. Dataset 4 should have had a r squre of 0 but it has an extreme outlier in it, changing the expression of whole dataset.
 
 # would linear regression be an appropriate statistical model to analyse the x-y relationship in each dataset?
+# For dataset 1-3, linear regression would potentially be able to predict the value of y based on x. They don't deviate much from the line of best fit. Dataset4 is more difficult to be analysed by regression since the extreme outlier changed the general statistical relationship between x and y. The line of best fit is just not able to describe x and y in dataset4.
 
 # what conclusions can you draw for the plots and summary statistics? 
-
+## Descriptive statstics is unable to fully illustrate the properties of a dataset. Outliers can be huge disturbance to the inferential statistics of a dataset.
 
 
 
